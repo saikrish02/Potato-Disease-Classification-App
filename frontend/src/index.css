@@ -1,0 +1,21 @@
+
+
+body {
+	margin: 0;
+	font-family: 'Poppins', sans-serif;
+	letter-spacing: 5px;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+code {
+	font-family: 'Poppins', sans-serif;
+	
+}
+
+.MuiDropzoneArea-root {
+	background-color: transparent !important;
+}
+.MuiDropzoneArea-text, .MuiDropzoneArea-icon {
+  color: white !important;
+}
